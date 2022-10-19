@@ -78,7 +78,7 @@
             app:boxCornerRadiusTopStart="10dp"
             app:errorEnabled="true"
             app:passwordToggleEnabled="true"
-            app:passwordToggleTint="@color/black"
+            app:passwordToggleTint="@color/brown_principal"
             app:startIconDrawable="@drawable/ic_twotone_lock_24"
             app:startIconTint="@color/black">
 
