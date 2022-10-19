@@ -159,7 +159,7 @@
             app:boxCornerRadiusTopEnd="10dp"
             app:boxCornerRadiusTopStart="10dp"
             app:errorEnabled="true"
-            app:startIconDrawable="@drawable/ic_twotone_phone_android_24"
+            app:startIconDrawable="@drawable/ic_twotone_local_phone_24"
             app:startIconTint="@color/black">
 
             <com.google.android.material.textfield.TextInputEditText
